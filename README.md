@@ -1,1 +1,2 @@
-# locala
+local keyA = "Shadow key"
+return keyA

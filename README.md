@@ -1,2 +1,2 @@
-local keyA = "Shadow key"
-return keyA
+local kery = "Shadow key"
+return kery
